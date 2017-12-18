@@ -8,12 +8,16 @@ El código se encuentra organizado en carpetas de acuerdo a los temas tratados.
 
 ## AI (inteligencia artificial)
 Ejemplos relacionados de inteligencia artificial.
+
 | Archivo | Descripcion |
 | ------ | ------ |
+
 ## Sql Server
 Ejemplos de Sql Server
+
 ### Seguridad
 Ejemplos relacionados a los artículos de Seguridad en SQL Server
+
 | Archivo | Descripcion |
 | ------ | ------ |
 | xp_cmdshell.sql | Pruebas con el xp_cmdshell |
